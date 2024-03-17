@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+div{
+    display: inline-block;
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+div:hover{
+    background-color: white;
+}
+
